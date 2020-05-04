@@ -1,2 +1,3 @@
-# First-Project
-This is my first github project.I am gonna upload the squash game of project C-17(maybe).
+# Squash Game
+##### Simple squash game built using JavaScript with the help of p5.play.js library.
+##### Use Arrow UP and DOWN Keys to control paddle.
